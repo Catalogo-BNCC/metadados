@@ -14,8 +14,8 @@ author:
   url: #yoururl
 permalink: pretty
 
-#baseurl: /metadados
-baseurl: 
+baseurl: /metadados
+#baseurl: 
 
 url: https://catalogobncc.github.io/
 
