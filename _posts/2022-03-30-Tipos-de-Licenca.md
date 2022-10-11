@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tipos de Licença
-description:
+description: Clique para acessar a descrição dos Tipos de Licença.
 summary: 
 ---
 <table style="border-collapse: collapse;">

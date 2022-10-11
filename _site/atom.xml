@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Metadados do Catálogo BNCC</title>
- <link href="http://localhost:4000/metadados/atom.xml" rel="self"/>
- <link href="http://localhost:4000/metadados/"/>
- <updated>2022-10-11T14:11:16-03:00</updated>
+ <title>Metadados</title>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2022-10-11T16:15:26-03:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name></name>
@@ -14,7 +14,7 @@
  
  <entry>
    <title>Tipos de Licença</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/tipos-de-licenca"/>
+   <link href="http://localhost:4000/2022/03/30/tipos-de-licenca"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/Tipos-de-Licenca</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -58,7 +58,7 @@
  
  <entry>
    <title>Tipos de Interação</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/tipos-de-intera%C3%A7%C3%A3o"/>
+   <link href="http://localhost:4000/2022/03/30/tipos-de-intera%C3%A7%C3%A3o"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/Tipos-de-Interação</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -81,7 +81,7 @@
  
  <entry>
    <title>Tipos de Gênero</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/tipos-de-genero"/>
+   <link href="http://localhost:4000/2022/03/30/tipos-de-genero"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/Tipos-de-Genero</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -152,7 +152,7 @@
  
  <entry>
    <title>Ensino Médio - Habilidades de Matemática e suas Tecnologias</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/emmat"/>
+   <link href="http://localhost:4000/2022/03/30/emmat"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EMMAT</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -422,7 +422,7 @@
  
  <entry>
    <title>Ensino Médio - Habilidades de Língua Portuguesa</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/emlp"/>
+   <link href="http://localhost:4000/2022/03/30/emlp"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EMLP</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -758,7 +758,7 @@
  
  <entry>
    <title>Ensino Médio - Habilidades de Linguagens e suas Tecnologias</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/emlgg"/>
+   <link href="http://localhost:4000/2022/03/30/emlgg"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EMLGG</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -939,7 +939,7 @@
  
  <entry>
    <title>Ensino Médio - Habilidades de Ciências da Natureza e suas Tecnologias</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/emcnt"/>
+   <link href="http://localhost:4000/2022/03/30/emcnt"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EMCNT</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -1107,7 +1107,7 @@
  
  <entry>
    <title>Ensino Médio - Habilidades de Ciências Humanas e Sociais Aplicadas</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/emchs"/>
+   <link href="http://localhost:4000/2022/03/30/emchs"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EMCHS</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -1312,7 +1312,7 @@
  
  <entry>
    <title>Ensino Infantil - Habilidades de Traços, sons, cores e formas</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/eits"/>
+   <link href="http://localhost:4000/2022/03/30/eits"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EITS</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -1379,7 +1379,7 @@
  
  <entry>
    <title>Ensino Infantil - Habilidades de Espaços, tempos, quantidades, relações e transformações</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/eiet"/>
+   <link href="http://localhost:4000/2022/03/30/eiet"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EIET</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -1524,7 +1524,7 @@
  
  <entry>
    <title>Ensino Infantil - Habilidades de O eu, o outro e o nós</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/eieo"/>
+   <link href="http://localhost:4000/2022/03/30/eieo"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EIEO</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -1657,7 +1657,7 @@
  
  <entry>
    <title>Ensino Infantil - Habilidades de Escuta, fala, pensamento e imaginação</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/eief"/>
+   <link href="http://localhost:4000/2022/03/30/eief"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EIEF</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -1830,7 +1830,7 @@
  
  <entry>
    <title>Ensino Infantil - Habilidades de Corpo, gestos e movimentos</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/eicg"/>
+   <link href="http://localhost:4000/2022/03/30/eicg"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EICG</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -1933,7 +1933,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de Matemática</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/efma"/>
+   <link href="http://localhost:4000/2022/03/30/efma"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFMA</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -3429,7 +3429,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de Língua Portuguesa</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/eflp"/>
+   <link href="http://localhost:4000/2022/03/30/eflp"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFLP</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -5788,7 +5788,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de Língua Inglesa</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/efli"/>
+   <link href="http://localhost:4000/2022/03/30/efli"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFLI</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -6329,7 +6329,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de História</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/efhi"/>
+   <link href="http://localhost:4000/2022/03/30/efhi"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFHI</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -7248,7 +7248,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de Geografia</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/efge"/>
+   <link href="http://localhost:4000/2022/03/30/efge"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFGE</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -7998,7 +7998,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de Ensino Religioso</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/efer"/>
+   <link href="http://localhost:4000/2022/03/30/efer"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFER</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -8389,7 +8389,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de Educação Física</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/efef"/>
+   <link href="http://localhost:4000/2022/03/30/efef"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFEF</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -8816,7 +8816,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de Ciências</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/efci"/>
+   <link href="http://localhost:4000/2022/03/30/efci"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFCI</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;
@@ -9495,7 +9495,7 @@
  
  <entry>
    <title>Ensino Fundamental - Habilidades de Arte</title>
-   <link href="http://localhost:4000/metadados/2022/03/30/efar"/>
+   <link href="http://localhost:4000/2022/03/30/efar"/>
    <updated>2022-03-30T00:00:00-03:00</updated>
    <id>http://localhost:4000/2022/03/30/EFAR</id>
    <content type="html">&lt;table style=&quot;border-collapse: collapse;&quot;&gt;

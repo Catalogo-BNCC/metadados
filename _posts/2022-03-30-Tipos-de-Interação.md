@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tipos de Interação
-description:
+description: Clique para acessar a descrição dos Tipos de Interação.
 summary: 
 ---
 <table style="border-collapse: collapse;">

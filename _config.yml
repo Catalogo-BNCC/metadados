@@ -1,6 +1,6 @@
 site: Metadados do Catálogo BNCC
 url: #yoururl
-title: Metadados do Catálogo BNCC
+title: Metadados
 description: Metadados do Catálogo BNCC
 twitter:
   username: #yourusername
@@ -14,7 +14,8 @@ author:
   url: #yoururl
 permalink: pretty
 
-baseurl: /metadados
+#baseurl: /metadados
+baseurl: 
 
 url: https://catalogobncc.github.io/
 

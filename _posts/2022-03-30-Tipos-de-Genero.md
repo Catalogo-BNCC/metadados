@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tipos de Gênero
-description:
+description: Clique para acessar a descrição dos Tipos de Gênero.
 summary: 
 ---
 <table style="border-collapse: collapse;">
